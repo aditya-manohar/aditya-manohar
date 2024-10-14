@@ -7,8 +7,9 @@
 </p>
 
 - 🔭 I’m currently working on [evolve](https://github.com/aditya-manohar/evolve)
+- 🤝 I'm looking to collaborate on open-source projects
 - 👨‍💻 All of my projects are available at [https://aditya-manohar.github.io](https://aditya-manohar.github.io)
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web development**
 - 📫 How to reach me: **adityamanohar2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
