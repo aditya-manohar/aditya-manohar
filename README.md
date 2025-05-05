@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm T.V. Aditya Manohar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditya-manohar&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-manohar" />
