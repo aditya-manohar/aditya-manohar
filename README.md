@@ -6,7 +6,7 @@
   <img src="https://camo.githubusercontent.com/d854ad5661ff59af426bd66b7a8049a53361c4e5abd628875d1fae271d383ad6/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966" alt="animated" width="200"/>
 </p>
 
-- 🔭 I’m currently working on [evolve](https://github.com/aditya-manohar/evolve)
+- 🔭 I’m currently working on [evolve](https://github.com/aditya-manohar/evolve-web-os)
 - 🤝 I'm looking to collaborate on open-source projects
 - 👨‍💻 All of my projects are available at [https://aditya-manohar.github.io](https://aditya-manohar.github.io)
 - 💬 Ask me about **Web development**
